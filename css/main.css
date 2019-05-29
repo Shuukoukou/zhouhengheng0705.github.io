@@ -1177,6 +1177,8 @@ pre .javascript .function {
 @media (max-width: 767px) {
   .site-nav-toggle {
     display: block;
+    margin: 5px 0px 200px 275px;
+    margin-bottom: auto;
   }
 }
 .site-nav-toggle button {
